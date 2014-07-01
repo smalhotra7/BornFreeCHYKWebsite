@@ -180,7 +180,7 @@
 
 			header.special .icon:before {
 				font-size: 3.5em;
-				opacity: 0.35;
+				opacity: 0.9;
 			}
 			header.special .img:before {
 				font-size: 3.5em;
@@ -603,7 +603,7 @@
 		}
 
 		.wrapper.style4 {
-			background: white;
+			background: #E6E6E6;
 			color: inherit;
 			padding: 4em;
 		}
