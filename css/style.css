@@ -268,7 +268,7 @@
 	}
 
 		.image:before {
-			background: url("images/overlay.png");
+			/*background: url("images/overlay.png");*/
 			content: '';
 			height: 100%;
 			left: 0;
@@ -289,6 +289,10 @@
 		.image.feature {
 			display: block;
 			margin: 0 0 2em 0;
+		}
+
+		.image.feature.nobackground {
+			background: none !important;
 		}
 
 			.image.feature img {
