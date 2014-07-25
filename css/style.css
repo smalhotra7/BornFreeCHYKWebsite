@@ -934,6 +934,15 @@
 		padding: 7em 0;
 	}
 
+	#main2 {
+		background-image: url("images/light-tl.svg"), url("images/light-tr.svg"), url("images/light-bl.svg"), url("images/light-br.svg");
+		background-position: top left, top right, bottom left, bottom right;
+		background-repeat: no-repeat;
+		background-size: 25em;
+		background-color: #01625b;
+		padding: 7em 0;
+	}
+
 		#main > :last-child {
 			margin-bottom: 0;
 		}
